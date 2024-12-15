@@ -27,10 +27,10 @@ Project overview, methodology, and key findings.
 
 # Visuals
 Top 5 Movie Durations in the 1990s
-![Screenshot Description](bar graph.png)
+![Screenshot Description](bargraph.png)
 
 Short Action Movies by Country
-![Screenshot Description](bar graph2.png)
+![Screenshot Description](bargraph2.png)
 
 # Tools Used
 - Python: Data analysis and visualization.
